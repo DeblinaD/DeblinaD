@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Deblina Das.
 - 👩‍💻 Presently I am studying Btech. Computer Science and Engineering.
+- Internship Experience: Data Analysis and Automation Engineering Intern at ANHEUSER BUSCH INBEV (Jul'23-Dec'23)
 - Pogramming languages known: C, C++, and Python.
 - Web Development: HTML, CSS, and Java Script.
 - Undergraduate: Data Structures and Algorithm, Object oriented programing, Computer organisation and Architecture, and Data base Management system.
